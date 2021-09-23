@@ -1,0 +1,349 @@
+,PRIVACY,,,,,,,,,,,,TECHNICAL,,,,,,,,ACCOUNTABILITY,,,,,,,,,,,,,PRICING,,,,,,
+Sheet last updated 3/20/2016,JURISDICTION,,LOGGING,,,,,ACTIVISM,,,,,SERVICE CONFIGURATION,,,,,AVAILABILITY,,,BUSINESS,,,,RESPECT FOR USERS SECURITY,,,,RESPECT FOR USERS PRIVACY,,,,,,,,,,,
+,,,ACTIVITY,,CONNECTION,,,,,,,,,PROTOCOLS,,PORT BLOCKING,,,,,PRACTICES,,,AFFILIATES,ENCRYPTION,,,,COOKIES,,WEBSITE,,,,,,,,,
+VPN SERVICE,Based in (Country),"""Fourteen Eyes"" Country",Traffic,DNS Requests,Timestamps,Bandwidth,IP Address,Anonymous Payment Method,Accepts Bitcoin,PGP Key Available,Warrant Canary,Meets PrivacyToolsIO Criteria,Own DNS Servers,Offers PPTP,Offers OpenVPN,Blocks SMTP (Authent.),Blocks P2P,# of Simultaneous Connections,# of Countries,# of Servers,Contradictory Logging Policies,Falsely Claims Service is 100% Effective,Incentivizes social media spam,Affiliates steal intellectual property,Weakest Data Encryption,Strongest Data Encryption,Weakest Handshake Encryption,Strongest Handshake Encryption,# of Persistent Cookies set by Website,# of External Trackers on Website,# of Proprietary API's Used on Website,Server SSL Rating,SSL Certificate issued to,$ / Month - (Annual Pricing),$ / Connection / Month,Free Trial Available,Refund Window (Days),,Comment In,Comment
+AceVPN,USA,Yes,,,Yes,,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Some,2,22,,Yes,Yes,,,,,,,4,1,10,A,Self,$4.59 ,$2.30 ,No,7,,$D$2,"These metrics are collected from the official websites and other reuptable sources.  This section takes each company at their word.  It's up to the user to decide who is trustworthy.
+
+The term ""logging"" is referring to LONG TERM storage of this information, and not REAL TIME ""monitoring"".
+
+Again - just because a company may not log, this does NOT mean that you can't be monitored in real time by the service."
+ActiVPN,France,Yes,,,,,,Email,Yes,Yes,Yes,No,No,Yes,Yes,,,5,13,20,,,,,,,See Note,See Note,0,0,0,A+,Self,$3.34 ,$0.67 ,No,See Note,,$D$3,"Activity logs contain information on how you used the VPN service. What sites are visited, what is being downloaded, etc."
+AirVPN,Italy,Yes,No,,,,,Email,Yes,Yes,No,Yes,Yes,No,Yes,No,No,3,16,113,,,,Yes,AES-256,AES-256,RSA-4096,RSA-4096,3,0,0,A+,Self,$4.93 ,$1.64 ,Yes,3,,$F$3,"Connection logs contain the metadata about your VPN session.  When you connected, for how long, where you connected from, how much data you used, how many devices you connected with, etc."
+Anonine,UK,Yes,No,,Yes,,Yes,Email,Yes,No,No,No,No,Yes,Yes,,,5,22,80,Yes,,,,,,See Note,See Note,6,2,29,C,Self,$3.99 ,$0.80 ,No,0,,$G$4,"Some services limit the bandwidth of the user. When a company's privacy policy explicitly states no bandwidth usage logging, you can be more sure they're serious and don't have an invisible, unadvertised cap."
+Anonymizer,USA,Yes,No,,Yes,No,Yes,Email,No,No,No,No,Yes,Yes,Yes,No,No,6,,,Yes,,,,,,,,14,4,19,A-,Self,$6.67 ,$1.11 ,Yes,45,,$I$4,"Service offers at least one payment method that does not require personal information.
+
+""Email"" in this field is considered better than a No, since it may or may not be tethered to an individuals identity.
+
+This does NOT count companies that claim that you can just falsify personal info and technically be anonymous.  It's to highlight companies that don't ask for it in the first place."
+Astrill,Seychelles,No,,,Yes,,Yes,No,Yes,No,No,No,No,Yes,Yes,,Some,2,54,254,,,,Yes,SSL-128,SSL-128,,,4,1,2,A-,Self,$5.83 ,$2.92 ,Yes,7,,$L$4,"Note that not all companies use effective warrant canaries.  A ""yes"" in this field does not guarantee quality, only that they claim to have a system in place.  Please research the details for yourself.  
+
+Also note that there is some debate as to the effectiveness of a warrant canary between experts - as force can be used by governments to coerce companies into maintaining them."
+AzireVPN,Sweden,Yes,No,No,No,No,No,Email,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,5,2,5,,,,,,AES-256,,,1,0,0,A+,Self,$4.11 ,$0.82 ,No,7,,$M$4,"Does not log traffic.
+
+Operating outside the USA or other Five Eyes countries.
+
+Has OpenVPN software support.
+
+File-Sharing (P2P) is tolerated on selected servers.
+
+Accepts Bitcoin, cash, debit cards or cash cards as a payment method.
+
+No personal information is required to create an account. Only username, password and Email.
+
+More info at privacytools.io"
+BeeVPN,Denmark,Yes,,,,,,Email,Yes,No,No,No,No,Yes,No,,No,1,4,,,,,,,AES-256,,,4,1,12,C,Self,$7.17 ,$7.17 ,No,0,,$N$4,"This field is a ""No"" unless all DNS servers are run by the "
+BlackVPN,Hong Kong,No,No,No,No,,No,Email,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Some,3,14,27,,,,,AES-256,AES-256,RSA-4096,RSA-4096,4,1,8,A,CloudFlare,$9.03 ,$3.01 ,No,14,,$O$4," If you are only concerned with Geo-unblocking for TV and so forth, this field is much less important."
+Blockless,Canada,Yes,,,,,,Email,No,No,No,No,Yes,Yes,No,,,1,,,,,,,,,,,5,3,9,A,CloudFlare,$4.17 ,$4.17 ,No,0,,$Q$4,"A ""Some"" in this field means that the companies' support team may be willing to whitelist your E-Mail providers SMTP server upon request.  Another possibility is the company supports some workaround method."
+BolehVPN,Malaysia,No,,,,,,No,Yes,Yes,Yes,No,Yes,No,Yes,,Some,2,14,,Yes,,,Yes,,,,,6,2,7,A,CloudFlare,$6.67 ,$3.34 ,Yes,14,,$R$4,"Services marked as blocking ""Some"" P2P, usually only blocks it on servers dedicated for streaming.  Other possibilities are that P2P user is throttled - or worse banned.  The user is responsible for researching further based on their needs."
+Boxpn,Seychelles,No,,,,,,Email,Yes,No,No,No,No,Yes,Yes,,No,3,22,80,,,,,MPPE-128,Blowfish-128,See Note,See Note,23,12,25,A,CloudFlare,$2.99 ,$1.00 ,No,0,,$S$4,A 25 in this field actually indicates no advertised limit for simultaneous connections.  (Done this way for conditional formatting purposes only)
+BTGuard,USA,Yes,No,,,,No,Email,Yes,No,No,No,Yes,Yes,Yes,,No,1,3,5,,,,,,AES-256,,,0,0,0,F,Self,$7.50 ,$7.50 ,No,0,,$T$4,"Note that some companies report physical server locations, and some use tricks to make a server endpoint appear to be in another country when it really isn't. Note, that in many cases where the number of countries is high, this is the case. Do your own research on a case by case basis if this is an important metric for you."
+Buffered,Hungary,No,No,,Yes,Yes,Yes,Email,No,No,No,No,No,No,Yes,,,5,26,,Yes,Yes,,,See Note,See Note,,,5,2,16,A,Self,$9.99 ,$2.00 ,No,30,,$U$4,"Note that some companies report physical server count, and some report potential virtual server count (to inflate the numbers). Do your own research on a case by case basis if this is an important metric for you."
+CactusVPN,Moldova,No,,,Yes,,,No,No,No,No,No,No,Yes,Yes,No,Some,3,4,16,,,,Yes,,,,,2,1,6,F,Self,$4.59 ,$1.53 ,Yes,30,,$V$4,"This field indicates a company who advertises a zero logs or absolutely no logs policy in their marketing, but upon further inspection do keep logs to some extent.
+
+This does NOT mean that the company in question has provided details about their logging policy in their terms or privacy policies, only that they have not claimed ""no logging"", then immediately disproved it."
+ChillGlobal,,,,,,,,No,No,No,No,No,No,,,,,1,15,,,,,,,,,,1,1,12,T,No SSL Cert,$5.70 ,$5.70 ,Yes,7,,$W$4,"No security or privacy setup truly offers 100% protection or is a bulletproof solution.  
+
+When a company uses hyperbole or otherwise claims 100% effectiveness for anonymity, privacy, security, or generally gives this impression - it misleads potential customers that don't know better and can harm the user who expects it to be true.
+
+Some claims are more blatant than others, but any claim that could be construed as a surefire way to be anonymous is counted."
+Cloak,USA,Yes,See Note,,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,,,25,,,,,Yes,,,,,,2,0,2,A+,Self,$8.34 ,$0.33 ,Yes,30,,$X$4,These companies offer rewards such as extra data allowances or free service time to users posting about their service on social media. This clogs up research channels for the honest customer.
+Cloudnymous,Moldova,No,,,Yes,Yes,,Email,No,No,No,No,No,Yes,Yes,,Some,,8,15,Yes,Yes,,,,,,,1,0,3,A+,Self,See Note,,No,30,,$Y$4,"These companies affiliates have stolen and are currently monetizing this chart which I have made available for free - (noncommercial license) without permission, attribution, and against its license.
+
+This isn't a direct reflection of the company in question, however, as they may receive webtraffic and subscriptions as a result, I believe the burden also lies with them to assist by cutting off the affiliate in question or to help get the stolen chart data removed.
+
+A company does not have direct control over their affiliates. Those affiliates are usually free to market and funnel customers as they wish. This often leads to situations that are damaging to well-meaning customers. I also notify such companies through  twitter when this field applies to them so they can assist in resolving it as quickly as possible.  
+
+I pursue action on my own as well in the meantime by issuing takedown notices to the responsible parties."
+CryptoStorm,Iceland,No,No,,,,No,Yes,Yes,Yes,No,Yes,Yes,,Yes,No,No,1,10,,,,,,AES-256,AES-256,,,2,3,2,A,Self,$3.92 ,$3.92 ,Yes,0,,$Z$4,"Companies that allow their users to connect to their service using obsolete encryption standards are potentially acting irresponsibly - even if they warn them first that they might be insecure.
+
+If you are only concerned with Geo-unblocking for TV and so forth, this field is much less important."
+CyberGhost,Romania,No,No,,No,,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Some,1,30,607,,,,,,AES-256,,,5,0,4,C,CloudFlare,$5.84 ,$5.84 ,No,30,,$AA$4,Companies that allow their users to connect to their service using obsolete encryption standards are potentially acting irresponsibly - even if they warn them first that they might be insecure.
+DotVPN,Hong Kong,No,,,,,Yes,Email,No,No,No,No,No,Yes,No,,,3,,700,Yes,,,,,,See Note,See Note,2,2,,A+,Self,$3.00 ,$1.00 ,Yes,30,,$AB$4,"Companies that allow their users to connect to their service using obsolete encryption standards are potentially acting irresponsibly - even if they warn them first that they might be insecure.
+
+If you are only concerned with Geo-unblocking for TV and so forth, this field is much less important."
+Doublehop.me,,,,,,,,Email,Yes,Yes,Yes,No,No,,,,,1,5,6,,,,,AES-256,AES-256,RSA-4096,RSA-4096,1,0,2,A+,CloudFlare,$2.75 ,$2.75 ,No,0,,$AC$4,Companies that allow their users to connect to their service using obsolete encryption standards are potentially acting irresponsibly - even if they warn them first that they might be insecure.
+EarthVPN,Northern Cyprus,No,No,,,,,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Some,3,32,304,,,,,MPPE-128,AES-256,MS-CHAPv2,,3,1,7,A,Incapsula,$3.34 ,$1.11 ,No,7,,$AD$4,Using webcookies.org - persistent cookies
+ExpressVPN,British Virgin Islands,See Note,,,Yes,Yes,No,Email,Yes,No,No,No,No,Yes,Yes,,No,1,78,500,,,,Yes,,,,,13,3,21,A+,Self,$8.32 ,$8.32 ,No,30,,$AE$4,Using webcookies.org - third party cookies
+Faceless.ME,Cyprus,No,,,Yes,,Yes,No,No,No,No,No,No,Yes,Yes,,No,1,3,,,,,,,,,,9,4,14,C,Self,$5.00 ,$5.00 ,Yes,0,,$AF$4,"This field is dervived from a urlquery scan of each service's website.  
+
+Not all services are of equal concern (or even concern at all).  This is a loose indication of how committed to free software a company is."
+FinchVPN,Malaysia,No,No,,Yes,Yes,Yes,Email,Yes,No,No,Yes,No,Yes,Yes,,Some,1,20,54,Yes,,,,AES-160,AES-160,,,4,1,15,A+,CloudFlare,$3.22 ,$3.22 ,Yes,0,,$AG$4,Run using Qualys SSL Labs - SSL Server Test Tool
+Freedom-IP,,,,,Yes,Yes,Yes,Email,Yes,No,No,No,No,Yes,Yes,,,5,40,,,Yes,,,See Note,See Note,,,2,0,5,A,Self,$4.58 ,$0.92 ,Yes,0,,$AH$4,"Some sites use a content delivery system, such as CloudFlare.  When such a service is used, data you enter and request from the website is decrypted at their edge servers and is visible to them.  
+
+This creates a possible attack vector to your data.  When registering for a VPN service, your username, password, etc would hypothetically be retrieavble at a CDS edge server in plaintext."
+Freedome,Finland,No,,,,,,Yes,No,No,No,No,Yes,Yes,Yes,Some,Some,3,19,,,Yes,,,AES-128,AES-256,RSA-2048,RSA-2048,1,0,10,A+,Self,$4.16 ,$1.39 ,Yes,0,,$AI$4,"Pricing is based off of normal rates, and doesn't take into consideration promotions, coupons, or sales."
+FrootVPN,Sweden,Yes,No,,No,,No,Email,Yes,No,No,Yes,No,Yes,Yes,Yes,No,1,4,,,Yes,,,,,See Note,See Note,3,0,0,A+,Self,$3.00 ,$3.00 ,No,30,,$AL$4,"Often, payments made by cash or bitcoin CANNOT be refunded. User should research as needed."
+FrostVPN,USA,Yes,No,,Yes,Yes,,No,Yes,No,No,No,No,Yes,Yes,,Some,3,16,54,,,,,,,,,3,2,10,A,No SSL Cert,$4.99 ,$1.66 ,No,3,,$V$5,"No Logs
+
+SMTP traffic is logged & disabled on all our servers"
+GoTrusted,USA,Yes,,,Yes,Yes,,No,No,No,No,No,No,,No,Some,,1,,,,,,,,,,,2,1,8,B,No SSL Cert,$5.99 ,$5.99 ,Yes,0,,$W$5,100% Private & Anonymous
+GoVPN,Germany,Yes,No,,,,Yes,Email,No,No,No,No,No,,No,,,3,8,27,Yes,,Yes,,,,,,2,0,0,B,Self,$2.50 ,$0.83 ,Yes,30,,$AL$5,$1 processing fee for refunds.
+Hide.me,Malaysia,No,No,,,,,Email,Yes,No,No,Yes,No,Yes,Yes,,No,5,24,88,,Yes,,,MPPE-128,AES-256,,,3,2,26,A+,Self,$11.67 ,$2.33 ,Yes,14,,$AB$6,"Says ""2048-bit"", but doesn't specify a protocol"
+HideIPVPN,USA,Yes,,,,,No,No,Yes,No,No,No,No,Yes,Yes,,Some,3,5,28,,,,,,,,,2,1,8,F,Self,$7.00 ,$2.33 ,Yes,30,,$AC$6,"Says ""2048-bit"", but doesn't specify a protocol"
+HideMyAss,UK,Yes,No,,Yes,Yes,Yes,Email,Yes,No,No,No,No,Yes,Yes,Some,No,1,,923,,Yes,,,MPPE-128,AES-256,RSA-RC4,RSA-1024,12,4,,B,Self,$6.55 ,$6.55 ,No,30,,$AL$6,"In case the service does not work, the user can ask for reimbursement of his service fees within the legal delay following the subscription, unless his access is terminated (eg. in case of micro-vpn 1 day offer). ActiVPN may refuse some requests if the customer did connect to several servers, or did connect at least five times."
+Hola!VPN,,,Yes,,Yes,,Yes,Email,No,No,No,No,No,,No,,,1,,,,,Yes,,,,,,2,0,10,B,Self,$5.00 ,$5.00 ,Yes,30,,$N$7,"he DNS IP address should match with server exit-IP address. In some, rare circumstances you might see a 54... address. This happens when the ""failover"" DNS must be used because something is wrong on the VPN server DNS server."
+Hotspot Shield,Switzerland,No,,,,,Yes,No,Yes,No,No,No,No,,No,,,5,,,,,,,,,,,1,0,4,F,Self,$2.50 ,$0.50 ,Yes,30,,$S$7,"Officially, AirVPN allows you 3 simultaneous connections. However, only one device can be connected to any one server at a time.  So for instance, a phone could be connected to one server, but a PC couldn't also be connected to it at the same time.  For this reason, you cannot actually have simultaneous devices to the fastest server from your location with the best possible routing, using the same level of security - The user only has one true ""ideal"" connection."
+IBVPN,Romania,No,No,,Yes,Yes,,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Some,1,43,95,Yes,,Yes,,,Blowfish-256,,,15,9,27,A+,Self,$4.08 ,$4.08 ,Yes,15,,$AL$7,"Refund available within 3 days or 5 GB used, whichever comes first."
+In-Disguise,Belize,No,,,,,,Email,Yes,No,No,No,No,Yes,Yes,,Some,1,22,25,,,,,,,,,1,0,0,A,CloudFlare,$6.86 ,$6.86 ,No,7,,$V$8,"Always anonymous, nothing logged
+
+We collect... the IP address of the device from which [the user] signed up to our service
+
+We may collect... choice of server location, time of connection to our server etc."
+Integrity.st,Sweden,Yes,No,,,,No,No,Yes,No,No,No,No,Yes,Yes,,,,,,,,,,,Blowfish-256,,,0,0,0,A,Self,See Note,,No,0,,$AB$8,"Says ""2048-bit"", but doesn't specify a protocol"
+Internetz.me,Germany,Yes,No,,No,No,,Email,Yes,Yes,No,No,No,No,Yes,,,3,6,17,,,,,,AES-256,,,7,2,5,A+,No SSL Cert,$7.16 ,$2.39 ,No,0,,$AC$8,"Says ""2048-bit"", but doesn't specify a protocol"
+IPinator,USA,Yes,,,,,,No,No,No,No,No,No,,Yes,,,5,12,84,,,,,,,,,,,18,B,No SSL Cert,$6.59 ,$1.32 ,No,30,,$V$9,"Logging - No
+
+To the maximum extent permitted by applicable law, Anonymizer may monitor your use of the Anonymizer service, e-mail, or other electronic communications and may disclose such information"
+IPredator,Sweden,Yes,,,Yes,,Yes,Email,Yes,Yes,Yes,No,Yes,Yes,Yes,Some,No,2,1,50,,,,,,,,,0,0,0,A+,Self,$6.56 ,$3.28 ,Yes,0,,$AL$9,"Refunds available for annual service, but NOT for monthly service."
+IPVanish,USA,Yes,No,,,,,Email,Yes,No,No,No,Yes,,Yes,Some,No,2,60,450,,Yes,,Yes,,,,,9,7,20,A,Self,$6.49 ,$3.25 ,No,7,,$AL$10,"If you did not use the trial before purchase, Astrill will deny refunds based solely on those grounds. 
+
+Refund requires that you've used the trial before purchase and even then, only for technical reasons after that. (If you can't get the service working on your device)"
+Ironsocket,Hong Kong,No,No,,Yes,Yes,Yes,Email,Yes,No,No,Yes,Yes,Yes,Yes,,Some,3,35,50,,,,,GRE-128,AES-256,See Note,RSA-2048,3,2,18,A,Self,$4.16 ,$1.39 ,No,7,,$AL$12,"Technically, BeeVPN allows 14 days from PURCHASE to get money back, but as soon as you download their software, their terms state that you forfeit that right.  The only exception to this is if you can't get their service working on your device at ALL - if you manage to send/receive any data using their service, again ANY REFUND is not applicable."
+Ivacy,Hong Kong,No,No,,,,,No,Yes,No,No,No,No,Yes,Yes,,No,5,40,250,,,,,,See Note,,,4,1,11,A,CloudFlare,$11.95 ,$2.39 ,No,7,,$V$15,"NO LOGS of user activity
+
+If we do notice any unusual activity on our servers (high bandwidth loading, high number of connections or cpu usage) we may turn on logs temporarily"
+IVPN,Gibraltar,See Note,No,No,No,No,No,Email,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,3,10,17,,,,,AES-256,AES-256,RSA-4096,RSA-4096,2,0,0,A+,Self,$8.34 ,$2.78 ,Yes,7,,$AL$15,Refunds available for nonthly or yearly subscriptions only ONLY after support declares that they can't resolve a technical issue.
+Kepard,Moldova,No,,,,,,Email,No,No,No,No,No,Yes,Yes,Yes,Some,1,,,,,,,,See Note,,,4,1,7,A,No SSL Cert,$2.90 ,$2.90 ,No,0,,$AB$16,"Says ""2048-bit"", but doesn't specify a protocol"
+LeVPN,France,Yes,,,,,,Email,Yes,No,No,No,Yes,Yes,Yes,,Some,2,49,350,,,,,,AES-256,,,8,2,20,A,Self,$4.95 ,$2.48 ,No,7,,$AC$16,"Says ""2048-bit"", but doesn't specify a protocol"
+LibertyShield,UK,Yes,,,,,Yes,No,Yes,No,No,No,No,Yes,No,,,1,10,10,,,,,,,,,9,1,11,C,Self,$12.43 ,$12.43 ,No,1,,$V$18,"
+
+    Your registration data and your login data.
+    We also store the amount of data being transmitted during the connection.
+    We do not as a matter of ordinary practice store private information about individual user activities on our network, such as emails, chats, VOIP calls, websites visited, etc.
+    We store information about the duration of the connection but never information about what the user does during the connection.
+    We store and process this data generally for 30 days computed from the last use of our services or from the termination of this agreement. Due to taxation laws, we are compelled to store your name and address longer."
+LibertyVPN,USA,Yes,,,,,,No,No,No,No,No,No,Yes,Yes,,Yes,1,83,,Yes,Yes,,,,,,,3,2,10,F,Self,$8.99 ,$8.99 ,No,3,,$W$18,OpenVPN is secure enough to not be compromised by the NSA.
+LimeVPN,Hong Kong,No,No,,Yes,Yes,,No,Yes,No,No,No,No,Yes,Yes,Some,Some,20,10,19,Yes,,,,MPPE-128,AES-256,MS-CHAPv2,RSA-2048,23,11,29,C,No SSL Cert,$11.49 ,$0.57 ,No,7,,$Z$18,"Says ""128-bit"", but doesn't specify a protocol"
+LiquidVPN,USA,Yes,No,No,,,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,,No,4,9,40,,,,,,AES-256,,,2,0,13,A,CloudFlare,$5.75 ,$1.44 ,No,7,,$AA$18,"Says ""128-bit"", but doesn't specify a protocol"
+Lokun,Iceland,No,,,Yes,,,Email,Yes,Yes,Yes,No,Yes,,Yes,,No,1,,,,,,,,,,,,,0,A,Self,,,No,7,,$AL$19,"CactusVPN will not provide a refund unless you cannot connect to ANY server they provide, which means that they will most likely give you the runaround with support - and if you CAN connect to a server, even if it's a slow on in another country, they will not provide a refund.  
+
+They will also not provide a refund if you can't get the service working on your router.
+
+It also appears that if you use the service for your mobile devices - you are NOT eligible for a refund.  
+
+Paypal subscriptions are also not eligible for refunds."
+Mullvad,Sweden,Yes,No,,,,,Yes,Yes,Yes,No,Yes,Yes,No,Yes,,No,3,5,,,,,,AES-256,AES-256,RSA-2048,RSA-2048,1,0,0,A+,Self,$5.44 ,$1.81 ,Yes,0,,$D$21,"Cloak logs ""The source port of each outgoing connection with start and end times"""
+My Expat Network,UK,Yes,,,,,,No,No,No,No,No,No,Yes,Yes,,,3,4,,,,,,,,,,3,2,9,A,Self,$7.00 ,$2.33 ,No,0,,$AL$21,"If you've purchased Cloak service through our website, we will happily refund your most recently paid month, no questions asked. (We're sorry, but we are unable to refund any months prior to the most recent.)
+
+If you've purchased Cloak service through In App Purchase in one of our apps, we are (unfortunately) unable to directly refund your purchase. Please get in touch with iTunes Support and request a refund through them — they are the only people who can provide this refund."
+MyIP,USA,Yes,No,,,,,No,No,No,No,No,No,Yes,Yes,,,1,10,,,Yes,,,,,,,7,3,2,A,Self,$5.99 ,$5.99 ,Yes,0,,$V$22,"No logs
+
+We don’t keep logs, only the strictly necessary for our system events - connections start and end times and the traffic amount."
+MyPrivateNetwork,Hong Kong,No,,,Yes,Yes,,Email,Yes,No,No,No,No,Yes,Yes,,,1,32,,,,,,,,,,3,1,13,A,Self,$7.75 ,$7.75 ,No,0,,$W$22,Truly anonymous - You are anonymous even for us... and have no leaks.
+MyVPN.Pro,USA,Yes,,,,,,Email,No,No,No,No,No,Yes,No,,,1,,,,,,,MPPE-128,AES-256,,,4,1,2,,No SSL Cert,$9.95 ,$9.95 ,No,0,,$AI$22,Pricing varies by server connected to.  Rates change over time depending on server utilization.  Pricing model designed for minimal VPN use.
+NEXTGenVPN,Seychelles,No,,,,,,Email,No,Yes,No,No,Yes,Yes,Yes,,Some,1,11,,,Yes,,,,,,,11,2,9,C,Self,$14.57 ,$14.57 ,No,0,,$L$23,"Cryptostorm has something called a ""Seppuku Pledge"" which is a declaration to governments and users that the company will not cooperate with secret court orders and would rather shutter their business in such an event.  This is admirable and deserves recognition, however, it's ultimately words - and no words, no matter how strong, serve as a system to warn a user that their privacy is likely compromised."
+NolimitVPN,Singapore,No,No,,Yes,,,Email,No,No,No,No,Yes,Yes,No,,No,3,,,,Yes,,,See Note,See Note,,,4,1,9,A,CloudFlare,$3.65 ,$1.22 ,Yes,0,,$S$24,"5 simultaneous connections are available with the more expensive ""Premium Plus"" plan."
+NordVPN,Panama,No,No,,No,No,No,Email,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Some,6,41,475,,,,,,,,RSA-2048,5,1,3,A,Self,$4.00 ,$0.67 ,Yes,30,,$S$25,"User is restricted to phone, tablet, laptop, ""and 2 more devices"" at the same time."
+NVPN,Bosnia,No,,,,,,Email,Yes,No,No,No,No,No,Yes,,No,1,34,51,,Yes,,,Blowfish-128,AES-256,,,0,1,3,A+,Self,$3.34 ,$3.34 ,No,3,,$V$25,"Zero-loging [sic] service
+
+• We store your IP address within 24 hours since you last connected"
+OctaneVPN,USA,Yes,,,No,Yes,No,Email,Yes,No,No,No,Yes,Yes,Yes,Yes,No,5,44,108,,,,,See Note,See Note,,,4,1,7,A,Self,$2.50 ,$0.50 ,No,7,,$AB$25,"Site says ""4096-bit Key Encryption"", but doesn't specify a protocol"
+OverPlay,UK,Yes,,,,,,Email,No,No,No,No,Yes,Yes,Yes,,No,1,48,67,,,,,,,,,,,15,C,Self,$8.33 ,$8.33 ,No,5,,$AC$25,"Site says ""4096-bit Key Encryption"", but doesn't specify a protocol"
+oVPN.se,Sweden,Yes,No,No,,,No,Email,Yes,Yes,No,Yes,Yes,No,Yes,No,No,4,2,24,,,,,AES-256,AES-256,DH-2048,DH-2048,3,1,5,A+,Self,$7.61 ,$1.90 ,Yes,10,,$AL$25,"
+
+• Your request for a refund is filed within 30 days from the date of order;
+
+• Your account has not been temporarily blocked by us in connection with your violation of our terms of service delivery;
+
+• You have used less than 10 GB of bandwidth (the total amount of incoming / outgoing information through the Service);
+
+• Number of your connections to our service does not exceed 100;
+
+• You asked for a solution to a technical problem with the Service in support of the Company, and received an official response on the impossibility of its elimination;
+
+• Previously you did not claim the refund under this Policy.
+
+If the amount of your inbound / outbound traffic exceeded 10 GB or order was made by you more than 30 days ago, we have the right to charge a pay for excess volume of your traffic and make you a partial refund. Such return is at our sole discretion.
+
+Guarantee of refund applies to all new orders, with the exception of orders paid through the Apple iTunes Store. We can not return the money for such orders."
+oVPN.to,,,No,,No,No,,Email,Yes,Yes,No,No,Yes,No,Yes,,No,1,36,12,,,,,AES-256,AES-256,RSA-4096,RSA-4096,0,0,0,A+,Self,$7.30 ,$7.30 ,No,0,,$I$26,A Telegram Messenger number can be used instead of Email.
+Perfect Privacy,Switzerland,No,No,,,,No,Email,Yes,Yes,No,Yes,Yes,Yes,Yes,,Some,25,23,41,,,,,,AES-256,,RSA-4096,1,1,7,A+,Self,$13.68 ,$0.55 ,No,7,,$C$28,"The British Virgin Islands themselves aren't technically a fourteen eyes country, but they are a British Overseas Territory of the UK, which is and may have influence in matters of international spying. (Interpol considers British Virgin Islands a part of the UK)"
+Private Internet Access,USA,Yes,No,No,No,,No,Email,Yes,No,No,No,Yes,Yes,Yes,Some,No,5,24,3094,,,,Yes,AES-128,See Note,RSA-2048,RSA-4096,2,1,7,A,Self,$3.33 ,$0.67 ,No,7,,$N$28,"To use ExpressUnblock’s Smart DNS servers, you must register your IP address with their system."
+PrivatePackets.io,British Indian Ocean,See Note,See Note,See Note,See Note,See Note,See Note,Email,No,No,No,No,See Note,Yes,Yes,See Note,See Note,25,7,See Note,,,,,,,,,1,0,3,A,Self,$5.00 ,$0.20 ,No,0,,$S$28,"User is restricted to one computer, one mobile device, one router, and one streaming media device connected simultaneously - I count this as 1, as it would be unfair to the other services with no such restrictions to count them as equal."
+PrivateTunnel,USA,Yes,,,,,,No,Yes,No,No,No,No,No,Yes,,,10,,,,,,,Blowfish-128,Blowfish-128,,,3,1,0,A,Self,$2.50 ,$0.25 ,Yes,90,,$I$30," ""If you register for an account with us, we may ask you for personal information such as name or contact details."""
+PrivateVPN,Sweden,Yes,,,,,,Email,Yes,No,No,No,No,Yes,Yes,,No,4,20,34,,,,,,AES-256,DH-2048,DH-2048,8,4,21,A,CloudFlare,$7.02 ,$1.76 ,No,0,,$V$30,"No logs
+
+We will store a time stamp, traffic amount and user id when you connect and disconnect to our VPN service."
+Privatoria.net,Czech Republic,No,No,,No,,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,,Some,5,22,22,,,,,AES-256,AES-256,,,24,12,12,B,Self,$1.90 ,$0.38 ,Yes,0,,$W$31,Become anonymous
+Proxy.sh,Seychelles,No,No,,,,,Email,Yes,No,Yes,Yes,Yes,No,Yes,,No,3,40,300,,,,,AES-256,AES-256,RSA-4096,RSA-4096,0,0,5,C,Self,$10.00 ,$3.33 ,No,0,,$Z$31,256-bit encryption
+ProXPN,Netherlands,Yes,No,,No,,No,Email,Yes,No,Yes,No,No,Yes,Yes,,,1,16,21,,Yes,,,See Note,See Note,See Note,See Note,2,0,16,B,Self,$6.25 ,$6.25 ,Yes,30,,$AA$31,256-bit encryption
+PRQ,Sweden,Yes,,,,,,Email,No,No,No,No,Yes,,Yes,,,1,,,,,,,,,,,1,1,,,Self,,,No,0,,$AL$31,"
+
+    This is the first order placed on your account (eg renewals are not eligible.)
+    If refund is requested within 30 days from the date of your order;
+    You have complied fully with Article 3 (prohibited uses) of our VPN service operating conditions;
+    You opened a support ticket with the reason for the cancellation of your service;
+    You use less than 100 MB of bandwidth (data transferred - total data sent and received by VPN)
+    You have not exceeded 10 sessions (the number of times you linked to our service); and
+    You have not already requested a refund following this rule (for example with another account).
+    No refund will be done for following reasons:
+        Access denied/degrated to an online site/service
+        Incorrect geolocation
+        Technical problem not attribuable to Freedom-IP
+
+If you have exceeded the bandwidth limit of 100 MB but your initial order is for a period longer than one month, we can issue you a partial refund based on your usage. These partial payments are made at our discretion."
+PureVPN,Hong Kong,No,No,,Yes,Yes,,No,Yes,No,No,No,Yes,Yes,Yes,No,Some,5,141,500,,,,Yes,AES-128,AES-256,,,,,27,A,Self,$4.17 ,$0.83 ,No,7,,$I$32,When using tokens.
+RA4W VPN,USA,Yes,No,,,,,Email,Yes,No,No,No,No,Yes,Yes,,,1,20,31,,Yes,,,,,,,5,4,13,A,CloudFlare,$1.88 ,$1.88 ,No,0,,$S$32,Additional simultaneous connections are available at additional expense.
+RiseupVPN,USA,Yes,,,,,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,,,25,,,,,,,,,,,0,0,0,A+,Self,See Note,,No,0,,$W$32,"Private and untrackable, Hackers can't steal your stuff."
+SaferVPN,USA,Yes,No,,Yes,Yes,Yes,Email,Yes,No,No,No,No,Yes,Yes,,,3,24,150,Yes,,,Yes,See Note,See Note,,,11,2,14,A,Self,$8.99 ,$3.00 ,Yes,14,,$AL$32,"No refunds for app purchases, 30 day refund for company e-store."
+SecureVPN.to,,,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,,No,25,23,34,,,,,AES-256,AES-256,RSA-4096,RSA-4096,1,0,0,A+,Self,$6.84 ,$0.27 ,No,0,,$W$33,"Be untraceable - no one will be able to trace you back to get your private information, not even the best hackers and spying agencies, or even your government."
+SecurityKISS,Ireland,No,,,Yes,Yes,Yes,Email,No,No,No,No,Yes,Yes,Yes,,,1,8,54,,,,,Blowfish-128,Blowfish-128,RSA-1024,RSA-1024,3,1,2,A-,Self,$8.15 ,$8.15 ,Yes,0,,$AB$33,"Says ""2048-bit"", but doesn't specify a protocol"
+Seed4me,Taiwan,No,Yes,,Yes,,Yes,Email,Yes,No,No,No,No,Yes,No,,Some,1,,,,,,,See Note,See Note,,,3,2,11,B,Self,,,No,0,,$AC$33,"Says ""2048-bit"", but doesn't specify a protocol"
+ShadeYou,Netherlands,Yes,,,,,,Email,Yes,No,No,No,No,Yes,Yes,,No,5,,,,Yes,,,,,See Note,See Note,3,0,7,,Self,$2.17 ,$0.43 ,Yes,7,,$AL$34,Refund permitted only if user has not used more than 5GB of Bandwidth or exceeded 25 sessions.
+SlickVPN,USA,Yes,No,,No,,No,Email,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,5,46,151,,,,,See Note,AES-256,,,4,0,14,A,CloudFlare,$2.42 ,$0.48 ,No,30,,$V$36,"No Log
+
+When you register we will collect your IP address."
+Smart DNS Proxy,Seychelles,No,,,,,,No,No,No,No,No,Yes,Yes,Yes,,Some,5,30,,,,,,,,,,39,14,31,A,Incapsula,$2.91 ,$0.58 ,Yes,30,,$AL$36,"
+
+You notify GoVPN via email (support@govpnservice.com) within the first 30 days of the purchase that you wish to cancel.
+
+Your bandwidth usage does not exceed 500MB (total of upload and download activity through the VPN).
+
+You have purchased via Paypal or Google Checkout.
+
+You have not previously claimed a refund from us."
+Steganos,Germany,Yes,,,,,No,No,No,No,No,No,No,Yes,No,,No,1,,,,,,,,AES-256,,,2,0,6,A,Self,$4.17 ,$4.17 ,Yes,0,,$W$37,"Become truly anonymous on the web, and avoid government surveillance, identity thieves and other bad guys."
+StrongVPN,USA,Yes,No,,,,,Email,Yes,No,No,No,No,Yes,Yes,,,1,21,387,,Yes,,Yes,,,,,,,30,A,Self,$4.99 ,$4.99 ,No,5,,$AL$37,hide.me will not grant a refund if more than 500 MB have been transmitted on your account.
+SwitchVPN,India,No,No,,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,,Some,5,31,,,,,,,,,,9,4,23,C,Self,$4.95 ,$0.99 ,No,30,,$AL$38,"HideIPVPN will not provide a refund unless you cannot connect to ANY server they provide, which means that they will most likely give you the runaround with support - and if you CAN connect to a server, even if it's a slow on in another country, they will not provide a refund.
+
+They will also not provide a refund if you can't get the service working on your router.
+
+It also appears that if you use the service for your mobile devices - you are NOT eligible for a refund.  
+
+Paypal subscriptions are also not eligible for refunds."
+SunVPN,USA,Yes,Yes,,Yes,,Yes,No,No,No,No,No,No,Yes,Yes,,Yes,2,10,12,,,,,,AES-256,,,3,1,8,F,No SSL Cert,$8.33 ,$4.17 ,No,30,,$W$39,Enjoy complete security
+SurfEasy,Canada,Yes,No,,,Yes,Yes,Email,No,No,No,No,No,No,Yes,,,5,13,,Yes,,,,,,,,8,3,12,A,CloudFlare,$3.99 ,$0.80 ,Yes,0,,$AL$39,"Refund offered before 10 GB of data have been transmitted on your account, you have connected 100 or fewer times, whichever comes first."
+TigerVPN,Slovakia,No,No,,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,,Some,1,42,62,Yes,Yes,,,AES-128,AES-256,,,14,7,29,A,Self,$7.50 ,$7.50 ,No,3,,$S$42,"Up to 3 connections with the ""Ultimate"" plan."
+Torguard,USA,Yes,,,,,,Email,Yes,No,No,No,Yes,Yes,Yes,Yes,No,5,43,1250,,Yes,,Yes,,,,,7,3,14,A,Self,$5.00 ,$1.00 ,No,7,,$V$42,"
+
+    Time, date and location a VPN connection was made.
+    Duration of the VPN connection.
+    Bandwidth used during the connection."
+TorrentPrivacy,Seychelles,No,,,,,No,Email,No,No,No,No,Yes,,Yes,,No,1,3,10,,,,,,,,,7,3,10,C,Self,,,No,0,,$AI$44,Integrity.st is a new service and appears to still be developing their pricing model.
+Trust.Zone,Seychelles,No,No,No,No,No,No,Email,Yes,No,No,Yes,Yes,No,Yes,Some,No,3,21,44,,,,,AES-256,AES-256,RSA-4096,RSA-4096,3,1,5,A,Self,$2.99 ,$1.00 ,Yes,10,,$W$48,100% Online Security
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AB$49,"Says ""1024-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$50,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$50,Ivacy will grant a refund within 7 days as long as the user has not connected more than 30 times or transmitted more than 500 MB of data
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$C$51,"Gibraltar itself isn't technically a fourteen eyes country, but it is a British Overseas Territory of the UK, which is and may have influence in matters of international spying. (Interpol considers Gibraltar a part of the UK)"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$R$51,"IVPN upstream providers in the USA have threatened to disconnect their servers on multiple occasions as a result of the high number of DMCA notices they receive, so they kindly request that customers avoid USA based servers for P2P (including USA exit servers on multihop)."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$51,"IVPN allows a user to connect to as many devices as they own, and will add connections upon request above the default of 3.  This does not count for devices belonging to more than one individual."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$51,"In exceptional circumstances e.g. there is a technical issue which prevents you from connecting, IVPN may refund your account up to 30 days after your service being activated."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$52,"Kepard allows 2 simultaneous connections at one time, however only one to a server."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$52,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$V$55,"We do NOT keep logs.
+
+The following Acceptable Use Policy (AUP) will set forth general and specific information in regards to Liberty VPN and its infrastructure. Infrastructure in this regard will consist of, but not be limited to, bandwidth, transport, servers, switches, IP address and any other equipment that will transmit, receive or otherwise be a vehicle of transmission of data of any sort"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$55,So your internet activity cannot be monitored
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$55,A refund will be issued within 3 days if you have not transmitted more than 50 MB of data
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$V$56,"
+
+    time, date and location vpn connection was made
+    duration of the vpn connection
+    bandwidth used during the connection"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$56,"Refund only available if you can’t connect to
+LimeVPN servers using all VPN connections included into your package (meaning if even only one works with a slow ping on the other side of the planet, you're out of luck)."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$57,"A refund will be granted as long as the user has not ""used an unreasonable amount of resources""."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$61,Anonymous browsing
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$64,NSA-proof
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$R$65,NolimitVPN allow torrents as long as they do not receive a DMCA complaint. Please note that your account may be permanently blocked if their system receives several complaints.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$65,"our VPN service makes you completely anonymous on the Internet.
+
+Makes your Internet traffic impossible to decrypt"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$65,"Says ""128-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$65,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$66,"Officially, NordVPN allows you 6 simultaneous connections. However, only one device can be connected to any one server with a given protocol.  So for instance, a phone could be connected to a server using UDP and OpenVPN, but a PC couldn't also be connected to it using the same protocols.  For this reason, you cannot actually have simultaneous devices to the fastest server from your location with the best possible routing, using the same level of security - The user only has one true ""ideal"" connection."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$66,"NordVPN reserves the right to suspend, terminate, or refuse service to anyone at any time for any reason."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$67,"Browse 100% stealth and Anonymous!
+
+100% safe!"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$67,"NVPN ONLY refunds if the service has been down, or the client is actually technically unable to connect to their service."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$68,"Says ""128-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$68,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$70,Only 5 day refund window for monthly plans
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$71,"Officially, oVPN.to allows you multiple simultaneous connections. However, only one device can be connected to any one server at a time.  So for instance, a phone could be connected to one server, but a PC couldn't also be connected to it at the same time.  For this reason, you cannot actually have simultaneous devices to the fastest server from your location with the best possible routing, using the same level of security - The user only has one true ""ideal"" connection."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$73,"
+
+https://www.privateinternetaccess.com/forum/discussion/20093/using-stock-openvpn-with-strong-encryption-settings"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$C$74,"The British Indian Ocean Territory itself isn't technically a fourteen eyes country, but it is a British Overseas Territory of the UK, which is and may have influence in matters of international spying."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$D$74,"PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change settings to not log - however Digital Ocean, who fulfils the service does monitor how their service is used."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$E$74,"PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change settings to not log - however Digital Ocean, who fulfils the service does monitor how their service is used.."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$F$74,"PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change settings to not log - however Digital Ocean, who fulfils the service does monitor how their service is used."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$G$74,"PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change settings to not log - however Digital Ocean, who fulfils the service does monitor how their service is used."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$H$74,"PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change settings to not log - however Digital Ocean, who fulfils the service does monitor how their service is used."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$N$74,PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can change DNS service to whichever they wish.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Q$74,PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can block or keep open any SMTP ports they wish.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$R$74,PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can block or keep open any P2P ports they wish.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$74,PrivatePackets.io is a unique service which allows the user to administrate their own private virtual VPN server.  User can hypothetically connect as many devices as they wish as it's their VPN server.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$U$74,The server you use from PrivatePackets.io is a dedicated DigitalOcean virtual VPN server.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AI$74,Service also requires a one-time $3 deployment fee.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$75,"
+
+    Single purchase, with usage amounts of less than 500 MB (free tier)
+        Full refund, if purchase is made within the last 90 days.
+    Single purchase, with usage amounts greater than 500 MB (free tier)
+        Prorated refund, based on the usage that has been billed to the account, if purchase is made within the last 90 days.
+    Singlepurchase, made over 90 days ago
+        Not eligible for refund
+    Multiple purchases, with all purchases made within 90 days
+        Refund up to the last unused data pack (e.g. if you bought four $12 50 GB data packs worth 200 GB and you used 75 GB, then a refund of two $12 50 GB data packs should be due)
+    Multiple purchases, with some purchases made within 90 days
+        Same as above, although unused data packs purchased over 90 days ago cannot be refunded
+    Multiple purchases, with all purchases made over 90 days ago
+        Not eligible for refund
+    Accounts terminated onrequest, or suspended due to abuse / misuse of service
+        Not eligible for refund
+    Accounts with no bandwidth left on data plan(s)
+        Not eligible for refund
+    Purchases made over Apple iTunes
+        Not eligible for refund due to processor limitations"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$78,Refunds available on Paypal purchases within 7 days.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$S$79,"ProXPN allows a number of simultaneous connections equal to the number of clusters on their network, however only one to each.  This means that you are technically allowed multiple connections, but only one to the nearest server where you would likely get the best ping."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$79,"With proXPN, no one can...
+
+See the websites you visit or record your online activity
+
+Wirelessly intercept banking details, instant messages, or passwords
+
+Trace your connection to find out the current location of your device"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$79,"Says ""512-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$79,"Says ""512-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AB$79,"Says ""2048-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AC$79,"Says ""2048-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$81,Refunds available only if you have not used more than 500MB of bandwidth or connected more than 30 times.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$82,100% ANONYMOUS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AI$83,"Riseup accepts donations in lieu of a normal subscription fee.  They recommend $5-15 per month as a fair donation.
+
+Again, RiseUp requests that only activists use their service as they wish to dedicate bandwidth to those who need it most."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$83,RiseUp is donation only.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$V$84,"
+
+- a time stamp when you connect and disconnect to our VPN service;
+
+- the amount of data transmitted (upload and download) during your session;
+
+- the IP address used by you to connect to our VPN;
+
+- the IP address of the individual VPN server used by you. "
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$84,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$84,"Says ""256-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$86,Refunds are pro-rated based on the amount of time left on the service.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$87,"Says ""128-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AA$87,"Says ""128-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$88,100% Anonymity
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AB$88,"Says ""2048-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AC$88,"Says ""2048-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$88,Refunds can only be completed if you can not to use the ShadeYou VPN service due to the company's fault and are not able to resolve the issue with their support.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$Z$89,"Says ""128-bit"", but doesn't specify a protocol"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$92,100% Online Security
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$V$95,"Our no-log VPN
+
+We will record your aggregate bandwidth usage for billing and network operations and support;"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$V$96,"We don't keep any logs nor record private data, period!
+
+Every time you start our service we track the time and the amount of data you consume"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$96,Bullet Proof Encryption
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$W$97,100% Anonymous
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$97,A refund will not be offered in the case the bandwidth usage exceeds 1 GB.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$N$99,"It depends on the platform, but for most users DNS queries go through our own DNS servers. We also may use Google DNS."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AI$99,Additional $1 connection fee
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$AL$99,A refund will not be offered in the case the bandwidth usage exceeds 1 GB.
